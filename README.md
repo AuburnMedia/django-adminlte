@@ -6,7 +6,7 @@
 - 👉 [Django AdminLTE](https://django-adminlte.onrender.com/dynamic-dt/product/) - `LIVE Demo` 
 - 👉 [Django AdminLTE](https://app-generator.dev/docs/products/django/adminlte/index.html) - `Documentation` (learn how to use the product) 
 
-<br /> 
+<br />
 
 ## Features
 
